@@ -1,7 +1,7 @@
 
 # AutoDriveX: Empowering the Future of Autonomous Transportation
 
-"AutoDriveX" is a groundbreaking project that combines the power of the Udacity Car Simulator, NVIDIA CNN model, and Python in Jupyter to create a revolutionary self-driving car. Witness the AI-driven capabilities of AutoDriveX as it navigates complex scenarios, adapts to road conditions, and makes real-time decisions. Join us in shaping the future of autonomous transportation.
+"AutoDriveX" is a project that combines the Udacity Car Simulator, NVIDIA CNN model, and Python in Jupyter to create a self-driving car. Experience the AI-driven capabilities of AutoDriveX as it navigates complex scenarios, adapts to road conditions, and makes real-time decisions. Join us in shaping the future of autonomous transportation.
 
 ## Running Tests
 
